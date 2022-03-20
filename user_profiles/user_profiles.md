@@ -11,3 +11,7 @@
   - name: c
   - id: 003
   - age: 22
+- loyal
+  - name: d
+  - id: 004
+  - age: 24
