@@ -1,1 +1,13 @@
 # user_profiles
+- daily
+  - name: a
+  - id: 001
+  - age: 18
+- monthly
+  - name: b
+  - id: 002
+  - age: 20
+- quarterly
+  - name: c
+  - id: 003
+  - age: 22
